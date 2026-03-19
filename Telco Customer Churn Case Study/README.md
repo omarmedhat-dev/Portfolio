@@ -2,7 +2,7 @@
 
 **Tools:** Power BI, DAX  
 **Dataset:** 7,043 customers across 6 linked tables — [source data](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
-**Live Dashboard:** [View on Power BI](#) ← replace with your published link
+**Live Dashboard:** [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDU2NTlkMDktZjQ4MS00YWMzLThmNzAtOWM3ZGIzNzliNjVjIiwidCI6IjgyMTYwMGNjLWY1YzMtNDgxMC1hY2FkLWU2MWI4M2Q4YmE0ZiJ9&pageName=53c8ae061b54c0a190d5)
 
 ---
 
@@ -24,11 +24,11 @@ A California-based telecommunications provider is losing 1 in 4 customers. Of 7,
 
 ## Dashboard Pages
 
-| Page | Business Question |
-|------|------------------|
-| Overview | How bad is the problem, what is driving it, and where is it most acute? |
-| Demographics & Behaviour | Which customer profiles are churning and how does tenure affect retention? |
-| Revenue Impact | Where is lost monthly revenue concentrated by segment, geography, and payment method? |
+**Overview** — How bad is the problem, what is driving it, and where is it most acute?
+
+**Demographics & Behaviour** — Which customer profiles are churning and how does tenure affect retention?
+
+**Revenue Impact** — Where is lost monthly revenue concentrated by segment, geography, and payment method?
 
 ---
 
@@ -43,4 +43,4 @@ A California-based telecommunications provider is losing 1 in 4 customers. Of 7,
 
 ## Full Case Study
 
-See [`telco_churn_case_study.docx`](./telco_churn_case_study.docx) for detailed findings and recommendations.
+See [`telco_churn_case_study.docx`](https://github.com/omarishere99/Portfolio/blob/main/Telco%20Customer%20Churn%20Case%20Study/telco_churn_case_study_final.pdf) for detailed findings and recommendations.
