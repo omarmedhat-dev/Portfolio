@@ -14,7 +14,7 @@ A US retail superstore generated $2.30M in sales across 2014–2017, with revenu
 
 ## Key Findings
 
-- **Discounts above 30% generate negative profit margins** — orders with 51%+ discounts produce a -119.20% margin, meaning the business spends $2.19 to generate $1 of revenue on those transactions
+- **Discounts above 30% generate negative profit margins** — orders with over 51% discounts produce a -119.20% margin, meaning the business spends $2.19 to generate $1 of revenue on those transactions
 - **Tables is an accelerating loss** — losses nearly tripled from ($3K) in 2014 to ($8K) in 2017; removing Tables and Bookcases would have added $9K to 2017 profit
 - **Technology delivers 17.4% margin vs Furniture at 2.5%** — the product mix is working against profitability
 - **Texas is the third largest state by sales but loses ($25.7K)** — five states are loss-making at scale despite significant sales volume
