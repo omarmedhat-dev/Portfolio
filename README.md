@@ -21,14 +21,18 @@ covering the business problem, findings, and recommendations.
 
 ## Projects
 
-### [Uber NCR Ride Analytics]
+### [Uber NCR Ride Analytics](https://github.com/omarmedhat-dev/Portfolio/tree/main/Uber%20Rides%20Analytics%20Case%20Study)
 Analysing 150,000 ride bookings to identify where 38% of rides fail and quantify the revenue impact.
 
-### [Telco Customer Churn]
+### [Telco Customer Churn](https://github.com/omarmedhat-dev/Portfolio/tree/main/Telco%20Customer%20Churn%20Case%20Study)
 Diagnosing why 1 in 4 customers churn and identifying the contract, product, and demographic drivers behind $1.53M in lost monthly revenue.
 
-### [Superstore Profitability]
+### [Superstore Profitability](https://github.com/omarmedhat-dev/Portfolio/tree/main/Super%20Store%20Case%20Study)
 Investigating why a growing retail business is losing margin — uncovering the impact of discounting, loss-making product lines, and geographic underperformance.
+
+### [Salesforce Service Cloud Analytics](https://github.com/omarmedhat-dev/Portfolio/tree/main/Salesforce%20Analytics)
+ 
+Three operational dashboards built for a BaFin-regulated SaaS platform — covering SLA compliance tracking, executive case pipeline overview, and team lead operational visibility. Used by senior management and team leads for daily oversight and weekly business reviews.
 
 ---
 
