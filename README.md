@@ -9,9 +9,7 @@ analysis and product thinking intersect.
 In my current role I use Tableau to analyse client performance data — 
 tracking transaction flows, user journey conversion rates, and SLA 
 compliance — translating those insights into process improvement 
-recommendations and operational decisions. I have also built analytics 
-dashboards in Salesforce to support operations and case management 
-reporting.
+recommendations and operational decisions. 
 
 This portfolio extends that analytical work into three structured 
 end-to-end Power BI projects, each accompanied by a written case study 
