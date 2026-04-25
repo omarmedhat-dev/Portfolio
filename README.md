@@ -3,8 +3,7 @@
 Hi, I'm Omar — a Senior Service Desk Analyst at IDnow with 6+ years 
 in enterprise SaaS across identity verification and digital trust. 
 I hold a Microsoft PL-300 (Power BI) and PSPO I certification, 
-and I'm transitioning into BI and Product roles where data 
-analysis and product thinking intersect.
+and I'm transitioning into BI and Product roles.
 
 In my current role I use Tableau to analyse client performance data — 
 tracking transaction flows, user journey conversion rates, and SLA 
